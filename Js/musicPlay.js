@@ -29,6 +29,12 @@ const app = {
             image:'./Song/img/Sofa.jpg'
         },
         {
+            name: 'Anh chưa thương em đến vậy đâu',
+            singer: 'Myra Trần',
+            path:'./Song/Anh Chưa Thương Em Đến Vậy Đâu (Live At Ca Sĩ Mặt Nạ) - Ca Sĩ Mặt Nạ.mp3',
+            image:'./Song/img/Anh chưa thương em đến vậy đâu.jpg'
+        },
+        {
             name: 'Là do em xui',
             singer: 'Sofia',
             path:'./Song/LaDoEmXuiThoi-KhoiSofiaDanTrangChauDangKhoa-7125647.mp3',
@@ -57,6 +63,96 @@ const app = {
             singer: 'Trung Quân',
             path: './Song/VaNgayNaoDoLiveAtDearOcean-TrungQuanIdol-8446799.mp3',
             image:'./Song/img/Và ngày nào đó.jpg'
+        },
+        {
+            name:'Chưa quên người yêu cũ',
+            singer: 'Hà Nhi',
+            path: './Song/ChuaQuenNguoiYeuCu-HaNhi-7662060.mp3',
+            image:'./Song/img/Chưa quên.jpg'
+        },
+        {
+            name:'Cưới đi',
+            singer: '2T',
+            path: './Song/CuoiDi-2TChangC-6560962.mp3',
+            image:'./Song/img/Cưới đi.jpg'
+        },
+        {
+            name:'Để tôi ôm em bằng giai điệu này',
+            singer: 'Min',
+            path: './Song/DeToiOmEmBangGiaiDieuNay-KaiDinhMINGREYD-8416034.mp3',
+            image:'./Song/img/Để tôi ôm lấy.jpg'
+        },
+        {
+            name:'Một ngàn nỗi đau',
+            singer: 'Trung Quân',
+            path: './Song/MotNganNoiDauLiveAtSoulOfTheForest-TrungQuanIdol-7847944.mp3',
+            image:'./Song/img/Một ngàn nỗi đau.jpg'
+        },
+        {
+            name:'Ngày mai em đi mất',
+            singer: 'Đạt G',
+            path: './Song/NgayMaiEmDiMatLiveAtDearOcean-DatG-8446681.mp3',
+            image:'./Song/img/Ngày mai em đi mất.jpg'
+        },
+        {
+            name:'Tình em là đại dương',
+            singer: 'Grey D',
+            path: './Song/tinhemladaiduong-GREYDDoanTheLanHoangDungTheVoice-7584551.mp3',
+            image:'./Song/img/Tình anh.jpg'
+        },
+        {
+            name:'Tự tình',
+            singer: 'Trung Quân',
+            path: './Song/TuTinh2-TrungQuanIdol-7944467.mp3',
+            image:'./Song/img/Tự tình 2.jpg'
+        },
+        {
+            name:'Yêu 4',
+            singer: 'Rhymastic',
+            path: './Song/Yeu-4-Rhymastic.mp3',
+            image:'./Song/img/Yêu 4.jpg'
+        },
+        {
+            name:'Yêu 5',
+            singer: 'Rhymastic',
+            path: './Song/Yeu5-Rhymastic-4756973.mp3',
+            image:'./Song/img/Yêu 5.jpg'
+        },
+        {
+            name:'Ai chung tình được mãi',
+            singer: 'Trung Quân',
+            path: './Song/AiChungTinhDuocMaiCover-TrungQuanIdol-7293429.mp3',
+            image:'./Song/img/Ai chung.jpg'
+        },
+        {
+            name:'Trò đùa',
+            singer: 'Đăng Quang Trần',
+            path: './Song/TroDuaOriginalVersion-QuangDangTran-6267339.mp3',
+            image:'./Song/img/Trò đùa.jpg'
+        },
+        {
+            name:'Tiền nhiều để làm gì',
+            singer: 'G.Ducky',
+            path: './Song/Tiền Nhiều Để Làm Gì Rap Việt - G.Ducky.mp3',
+            image:'./Song/img/Rap việt.jpg'
+        },
+        {
+            name:'Đây là rap việt',
+            singer: 'Rap việt',
+            path: './Song/Đây Là Rap Việt - Rhymastic, JustaTee, Karik, Suboi, Binz, Wowy.mp3',
+            image:'./Song/img/Rap việt.jpg'
+        },
+        {
+            name:'Giàu vì bạn sang vì vợ',
+            singer: 'Rap việt',
+            path: './Song/Giàu Vì Bạn Sang Vì Vợ - RPT MCK.mp3',
+            image:'./Song/img/Rap việt.jpg'
+        },
+        {
+            name:'Thích qua rùi nà',
+            singer: 'Rap việt',
+            path: './Song/Thích Quá Rồi Nà - Tlinh Trung Trần Wxrdie Nger Pacman.mp3',
+            image:'./Song/img/Rap việt.jpg'
         },
     ] ,
     setConfig: function (key, value){
